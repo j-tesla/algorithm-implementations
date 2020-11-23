@@ -1,4 +1,10 @@
-// nlogn
+/**
+ * author: Jayanth PSY
+ * GitHub: https://github.com/j-tesla
+ *
+ * # MERGE SORT
+ * Time Complexity: worst case O( nlogn)
+ */
 
 #include <iostream>
 
