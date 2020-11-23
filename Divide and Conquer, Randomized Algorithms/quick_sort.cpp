@@ -1,3 +1,11 @@
+/**
+ * author: Jayanth PSY
+ * GitHub: https://github.com/j-tesla
+ *
+ * # QUICK SORT
+ * Expected Time Complexity:	O( nlogn)
+ */
+
 #include <iostream>
 
 using namespace std;
